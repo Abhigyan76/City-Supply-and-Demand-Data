@@ -12,5 +12,5 @@ Objectives of this project is the analysis of -
 7. True or False: Driver supply always increases when demand increases during the two week period.
 8. In which 72 hour period is the ratio of Zeroes to Eyeballs the highest?
 9. If you could add 5 drivers to any single hour of every day during the two week period, which hour should you add them to?
-10.True or False: There are exactly two weeks of data in this analysis.
+10. True or False: There are exactly two weeks of data in this analysis.
 11. Looking at all of the data, which time might make the most sense to consider a true "end day" instead of midnight? (i.e when are both supply and demand at their natural minimums)
