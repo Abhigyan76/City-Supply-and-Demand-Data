@@ -2,7 +2,7 @@
 
 Analyze city supply and demand for a ride sharing company.
 
-Objectives of this project is th eanalysis of -
+Objectives of this project is the analysis of -
 1. Which date had the most completed trips during the two week period?
 2. What was the highest number of completed trips within a 24 hour period?
 3. Which hour of the day had the most requests during the two week period?
